@@ -2,9 +2,9 @@
 
 Following the steps you should follow
 
-Step 1: Open your AWS console. 
-Step 2: Search EC2. 
-Step 3: Select your region.
+Step 1: Open your AWS console. <br>
+Step 2: Search EC2. <br>
+Step 3: Select your region.<br>
 Step 4: Open instances.
 Step 5: Create your instance.
 	- Enter the name of the instance.
