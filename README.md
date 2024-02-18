@@ -45,7 +45,7 @@ Step 12: Select the open option and select your downloaded file. <br>
 Step 13: Now the system automatically gives the user name.<br>
 Step 14: Go to your console and click on Get Password. Browse your key pair (select the key pair that is selected when you create an instance). <br>
 Step 15: Copy your password and paste it on your remote desktop.<br> 
-Step 16: Then click on Connect. <br>
+Step 16: Then click on Connect.<br>
 Step 17: Your system or PC asks for a password, then enters your password. Then click on "Yes" for tursh. <br>
 Step 18: Your virtual server is open. <br>
 Step 19: To check if your server is running or not, just run "winver."<br>
@@ -53,11 +53,11 @@ Step 20: We can see the version of the virtual server or machines. <br>
 Step 21: Then close it<br>
 Step 22: Now your virtual server or machines are connected.<br>
 Step 23: Now open the instance page, and you can see so many things.<br>
-	- Instance field<br>
-	- Details :- we see instance summary like instance ID, public IP, private IP, instance status, key pair details, etc.<br>
-	- Security :- we can see inbound rules and outbound rules. <br>
-	- Network :- we can see public IP and private IP addresses, VPC IDs, and subnets.<br>
-	- Storage :- we can see hardware details and device details , virtual drive <br>
-	- Status checks :- currante stutus check<br>
-	- Monitoring :- all the metrics of things like CPU utilization, network utilization, disk utilization, etc...<br>
-	- Tags :- we can create our own tags for understanding.<br>
+	<li>- Instance field</li><br>
+	<li>- Details :- we see instance summary like instance ID, public IP, private IP, instance status, key pair details, etc.</li><br>
+	<li>- Security :- we can see inbound rules and outbound rules.</li><br>
+	<li>- Network :- we can see public IP and private IP addresses, VPC IDs, and subnets.</li><br>
+	<li>- Storage :- we can see hardware details and device details , virtual drive.</li><br>
+	<li>- Status checks :- currante stutus check.</li><br>
+	<li>- Monitoring :- all the metrics of things like CPU utilization, network utilization, disk utilization, etc...</li><br>
+	<li>- Tags :- we can create our own tags for understanding.</li><br>
