@@ -53,11 +53,11 @@ Step 20: We can see the version of the virtual server or machines. <br>
 Step 21: Then close it<br>
 Step 22: Now your virtual server or machines are connected.<br>
 Step 23: Now open the instance page, and you can see so many things.<br>
-	<li>- Instance field</li><br>
-	<li>- Details :- we see instance summary like instance ID, public IP, private IP, instance status, key pair details, etc.</li><br>
-	<li>- Security :- we can see inbound rules and outbound rules.</li><br>
-	<li>- Network :- we can see public IP and private IP addresses, VPC IDs, and subnets.</li><br>
-	<li>- Storage :- we can see hardware details and device details , virtual drive.</li><br>
-	<li>- Status checks :- currante stutus check.</li><br>
-	<li>- Monitoring :- all the metrics of things like CPU utilization, network utilization, disk utilization, etc...</li><br>
-	<li>- Tags :- we can create our own tags for understanding.</li><br>
+	- Instance field<br>
+	- Details :- we see instance summary like instance ID, public IP, private IP, instance status, key pair details, etc.<br>
+	- Security :- we can see inbound rules and outbound rules.<br>
+	- Network :- we can see public IP and private IP addresses, VPC IDs, and subnets.<br>
+	- Storage :- we can see hardware details and device details , virtual drive.<br>
+	- Status checks :- currante stutus check.<br>
+	- Monitoring :- all the metrics of things like CPU utilization, network utilization, disk utilization, etc...<br>
+	- Tags :- we can create our own tags for understanding.<br>
